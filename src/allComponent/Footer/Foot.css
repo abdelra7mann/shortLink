@@ -1,0 +1,27 @@
+.features
+{
+ text-align: center;
+padding-top: 2rem;    }
+
+.features h2 
+{
+ font-size: 1rem;
+ margin-bottom: 1rem;
+}
+.b3{
+ margin-top: 3rem;
+}
+.features ul
+{
+list-style: none;
+padding: 0rem;
+}
+.features ul li 
+{
+ color: #6c757d;
+ margin-bottom: 0.2rem;
+}
+.bg-footer
+{
+ background-color: #232027;
+}

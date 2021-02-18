@@ -1,0 +1,49 @@
+
+.fw
+{
+ font-weight: 900;
+ font-size: 1.5rem;
+  padding-left: 1rem;
+}
+
+.fw-S
+{
+ font-weight: 900;
+ font-size: 2.5rem;
+}
+
+.hiwe
+{
+ width: 80px;
+ height: 80px;
+}
+.bgColoriz
+{
+ background-color: #3B2F55;
+ border-radius: 50%;
+ padding: 1.1rem;
+ position: absolute;
+ bottom: 80%;
+ margin-left: 1rem;
+
+}
+
+.padingg
+{
+ padding-top: 5rem;
+ margin: 1rem;
+}
+
+.handeltext 
+{
+ line-height: 1.8rem;
+ font-size: 1rem;
+ padding: 1rem;
+
+}
+
+.bg-page 
+{
+  background-color: #F0F1F6;
+
+}

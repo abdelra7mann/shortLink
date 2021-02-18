@@ -1,0 +1,44 @@
+
+.navFont 
+{
+font-size: 1.89rem;
+}
+.navbar-light .navbar-brand 
+{
+    font-size: 1.8rem;
+}
+.navFonta
+{
+    font-size: 1.220rem;
+}
+
+.navbar-brand{
+    padding-top: 0.45rem;
+}
+
+.navbar-light .navbar-nav .nav-link
+{
+    color:#6c757d ;
+    font-size: 0.995rem;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    padding-left:1.4rem;
+    padding-top: 1rem;
+}
+.bg-bouton {
+    background-color: #2BD1D1;
+
+}
+.btnA 
+{
+    border-radius: 1.3rem;
+    color:white;
+    font-weight: bold;
+    margin-left: 1rem;
+}
+
+.mainColor
+{
+    color: #34313C;
+}

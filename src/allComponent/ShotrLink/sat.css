@@ -1,0 +1,33 @@
+
+.colorFont {
+ color: #312E37;
+}
+.colorFont {
+  color: #312E37;
+   }
+.bg-mov {
+  background-color: #383153;
+}
+.fontsize
+{
+   font-size: 1.0rem;
+}
+.alby {
+   background-image: url("../images//bg-shorten-desktop.svg");
+}
+.p 
+{
+   padding: 18px 50px 15px 60px;
+}
+.form-control {
+    padding: 1.655rem .757rem;
+}
+.bgColor
+{
+    background-color: #F0F1F6;
+    margin-top: 7rem;
+}
+.Resoult 
+{
+   display: none;
+}

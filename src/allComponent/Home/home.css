@@ -1,0 +1,41 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.textHeader {
+    font-size:4.555rem;
+    font-weight: bold;
+    
+}
+.btnG 
+{
+    border-radius: 1.3rem;
+    color:white;
+    font-weight: bold;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-size: 1.2rem;
+    padding-top: .700rem;
+    padding-bottom: .700rem;
+    
+}
+.bg-bouton {
+    background-color: #2BD1D1;
+
+}
+.mainColor
+{
+    color: #34313C;
+}
+
+.mLeft 
+{
+    margin-left: 6.5rem;
+}
+/* .mainBg 
+{
+    background-image: url("../images/illustration-working.svg");
+    overflow: auto;
+    background-repeat: no-repeat;
+    background: cover ;
+
+} */
