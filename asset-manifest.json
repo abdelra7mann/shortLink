@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e59583c6.chunk.css",
+    "main.js": "/static/js/main.12a7acb2.chunk.js",
+    "main.js.map": "/static/js/main.12a7acb2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6696be21.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6696be21.js.map",
+    "static/css/2.84b53a25.chunk.css": "/static/css/2.84b53a25.chunk.css",
+    "static/js/2.9300fc5b.chunk.js": "/static/js/2.9300fc5b.chunk.js",
+    "static/js/2.9300fc5b.chunk.js.map": "/static/js/2.9300fc5b.chunk.js.map",
+    "static/js/3.3395bff8.chunk.js": "/static/js/3.3395bff8.chunk.js",
+    "static/js/3.3395bff8.chunk.js.map": "/static/js/3.3395bff8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.84b53a25.chunk.css.map": "/static/css/2.84b53a25.chunk.css.map",
+    "static/css/main.e59583c6.chunk.css.map": "/static/css/main.e59583c6.chunk.css.map",
+    "static/js/2.9300fc5b.chunk.js.LICENSE.txt": "/static/js/2.9300fc5b.chunk.js.LICENSE.txt",
+    "static/media/loost.css": "/static/media/bg-boost-desktop.772154c9.svg",
+    "static/media/sat.css": "/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/static/media/illustration-working.c9b5ef54.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6696be21.js",
+    "static/css/2.84b53a25.chunk.css",
+    "static/js/2.9300fc5b.chunk.js",
+    "static/css/main.e59583c6.chunk.css",
+    "static/js/main.12a7acb2.chunk.js"
+  ]
+}
